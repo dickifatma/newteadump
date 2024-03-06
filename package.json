@@ -1,0 +1,24 @@
+{
+  "name": "newteadump",
+  "version": "1.0.0",
+  "description": "Demo APPS",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickifatma/henlo-tea.git",
+    "dependencies": {"henlo-tea": "1.0.1"}
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "wq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickifatma/henlo-tea/issues"
+  },
+  "homepage": "https://github.com/dickifatma/henlo-tea#readme"
+  
+}
